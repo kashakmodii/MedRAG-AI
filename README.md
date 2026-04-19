@@ -59,14 +59,3 @@ ollama pull mistral
 streamlit run app.py
 ```
 
-## Screenshots
-
-Add screenshots of the chat interface, PDF upload flow, and retrieved chunk panel here.
-
-## Resume-Ready Summary
-
-Built a production-ready offline medical RAG chatbot that combines PDF ingestion, semantic retrieval with FAISS, local embeddings via Sentence Transformers, and low-latency generation through Ollama. The system is modular, CPU-friendly, and designed to support secure local use without external APIs.
-
-## Disclaimer
-
-This is not medical advice. The application is intended for informational purposes only and should not replace a qualified clinician.
